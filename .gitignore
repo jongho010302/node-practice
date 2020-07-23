@@ -1,0 +1,9 @@
+node_modules
+.env.development
+.env
+.webpack
+.serverless
+dist
+yarn-error.lock
+package-lock.json
+yarn.lock
